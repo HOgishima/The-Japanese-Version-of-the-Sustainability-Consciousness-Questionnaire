@@ -9,9 +9,11 @@ All data and analysis codes used in the creation of the Japanese version are upl
 
 
 # The Japanese Version of Sustainability Consciousness Questionnaire
-The Japanese version of the Sustainability Consciousness Questionnaire (SCQ-J) is copyrighted but may be used without permission.
-If you download the "SCQ-J.pdf" file, you can use the questionnaire as it is, as a marker-type questionnaire.
-If you have any problems, please contact "ogishima.hiroyoshi[at]kochi-tech.ac.jp (*[at] = @)".
+The Sustainability Consciousness Questionnaire's Japanese version (SCQ-J) is protected by copyright. However, it can be used without obtaining explicit permission.
+To use it:
+- Download the "SCQ-J.pdf" file. You can then utilize the questionnaire in its current format, suitable for marker-type responses.
+- In case of any issues, please contant to Hiroyoshi Ogishima at "ogishima.hiroyoshi[at]kochi-tech.ac.jp (*Replace [at] with @)".
+- If you use the scale in your work or publications, please cite the following reference.
 
 日本語版Sustainability Consciousness Questionnaire（SCQ-J）は，著作権で保護されていますが，書面による許可申請なく，無償で使用することができます。
 「SCQ-J.pdf」をダウンロードしていただければ，マーク式の質問紙として，そのまま使用いただけます。
