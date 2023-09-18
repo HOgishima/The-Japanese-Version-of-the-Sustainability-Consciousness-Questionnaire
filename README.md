@@ -15,7 +15,7 @@ To use it:
 - In case of any issues, please contant to Hiroyoshi Ogishima at "ogishima.hiroyoshi[at]kochi-tech.ac.jp (*Replace [at] with @)".
 - If you use the scale in your work or publications, please cite the following reference.
 
-日本語版Sustainability Consciousness Questionnaire（SCQ-J）は，著作権で保護されていますが，書面による許可申請なく，無償で使用することができます。
+日本語版サステナビリティ意識調査票（SCQ-J）は，著作権で保護されていますが，書面による許可申請なく，無償で使用することができます。
 「SCQ-J.pdf」をダウンロードしていただければ，マーク式の質問紙として，そのまま使用いただけます。
 何か問題がありましたらご連絡(ogishima.hiroyoshi[at]kochi-tech.ac.jp ※[at] = @)をいただけましたら幸いです。
 尺度を利用された場合は，以下の引用をお願いいたします。
