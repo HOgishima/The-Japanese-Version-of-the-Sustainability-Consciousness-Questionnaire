@@ -3,8 +3,8 @@ The Sustainable Development Goals (SDGs) are required to be achieved by 2030, an
 Here, we developed a Japanese version of the Sustainability Consciousness Questionnaire (SCQ), the most well-known individual measure of the SDGs.
 All data and analysis codes used in the creation of the Japanese version are uploaded to this GitHub repository.
 
-「持続可能な開発目標（SDGs）」は，すべての国連加盟国で2030年までの達成が求められている，最重要な国際共通目標です。
-しかし日本においては，その取り組みを測定する個人指標が，不在のままでした。
+「持続可能な開発目標（SDGs）」は，すべての国連加盟国で2030年までの達成が求められている，国際的に最も重要とされている共通課題です。
+しかし日本においては，その取り組みを測定する個人指標が不在でした。
 そこで，SDGsに関する個人指標として，世界的に最も著名である「Sustainability Consciousness Questionnaire (SCQ)」の日本語版を開発しました。
 
 
@@ -16,6 +16,9 @@ If you have any problems, please contact "ogishima.hiroyoshi[at]kochi-tech.ac.jp
 日本語版Sustainability Consciousness Questionnaire（SCQ-J）は，著作権で保護されていますが，書面による許可申請なく，無償で使用することができます。
 「SCQ-J.pdf」をダウンロードしていただければ，マーク式の質問紙として，そのまま使用いただけます。
 何か問題がありましたらご連絡(ogishima.hiroyoshi[at]kochi-tech.ac.jp ※[at] = @)をいただけましたら幸いです。
+尺度を利用された場合は，以下の引用をお願いいたします。
+
+> Ogishima, H., Ito, A., Kajimura, S., & Himichi, T. (2023). Validity and reliability of the Japanese version of the sustainability consciousness questionnaire. *Frontiers in Psychology*, 14, 1130550.
 
 # Data and Code Availability
 All data and analysis codes used in the creation of the Japanese version are uploaded to this GitHub repository.
