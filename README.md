@@ -18,7 +18,7 @@ If you have any problems, please contact "ogishima.hiroyoshi[at]kochi-tech.ac.jp
 何か問題がありましたらご連絡(ogishima.hiroyoshi[at]kochi-tech.ac.jp ※[at] = @)をいただけましたら幸いです。
 尺度を利用された場合は，以下の引用をお願いいたします。
 
-Ogishima, H., Ito, A., Kajimura, S., & Himichi, T. (2023). Validity and reliability of the Japanese version of the sustainability consciousness questionnaire. *Frontiers in Psychology*, 14, 1130550.
+> Ogishima, H., Ito, A., Kajimura, S., & Himichi, T. (2023). Validity and reliability of the Japanese version of the sustainability consciousness questionnaire. *Frontiers in Psychology*, 14, 1130550.
 
 # Data and Code Availability
 All data and analysis codes used in the creation of the Japanese version are uploaded to this GitHub repository.
